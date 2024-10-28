@@ -1,7 +1,7 @@
-name = 'Архип'
+name = 'Архип' #str
 print('Name: ', name)
-age = 18
+age = 18 #int
 print('Age: ', age)
 print('New age: ', age+2)
-is_student = True
+is_student = True #bool
 print('Is student?: ', is_student)
